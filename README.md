@@ -6,7 +6,7 @@ A modern, browser-playable remake of the classic Pong game, built entirely using
 
 ## 🚀 Live Demo  
 👉 **Play the Game Here:**  
-🔗 *[Add your GitHub Pages link here]*
+🔗 *(https://pavankasala.github.io/Ping-Pong-Game/)*
 
 ---
 
